@@ -112,3 +112,4 @@ C:\_\SpecFlowDemoProject\SpecFlowDemoProject\obj\Debug\net6.0\SpecFlowDemoProjec
 C:\_\SpecFlowDemoProject\SpecFlowDemoProject\obj\Debug\net6.0\SpecFlowDemoProject.genruntimeconfig.cache
 C:\_\SpecFlowDemoProject\SpecFlowDemoProject\obj\Debug\net6.0\ref\SpecFlowDemoProject.dll
 C:\_\SpecFlowDemoProject\SpecFlowDemoProject\bin\Debug\net6.0\RestSharp.dll
+C:\_\SpecFlowDemoProject\SpecFlowDemoProject\obj\Debug\net6.0\SpecFlowDemoProject.sourcelink.json
