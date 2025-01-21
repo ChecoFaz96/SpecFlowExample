@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos temporales de editores
+*.swp
+*.swo
