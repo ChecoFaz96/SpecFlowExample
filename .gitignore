@@ -1,21 +1,14 @@
-# Dependencias
-node_modules/
-vendor/
+# Ignorar archivos de compilación de .NET
+bin/
+obj/
 
-# Archivos de configuración
-.env
+# Ignorar archivos de configuración de Visual Studio (si es aplicable)
+.vs/
+.vscode/
+.idea/
 
-# Archivos de sistema
-.DS_Store
-Thumbs.db
-
-# Archivos de log
+# Archivos de logs (si generas logs en tu proyecto)
 *.log
 
-# Archivos de compilación
-dist/
-build/
-
-# Archivos temporales de editores
-*.swp
-*.swo
+# Archivos de ejecución de pruebas (pueden variar dependiendo de cómo se configuren)
+TestExecution.json
